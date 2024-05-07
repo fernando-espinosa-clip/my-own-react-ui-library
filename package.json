@@ -1,7 +1,7 @@
 {
   "name": "@fernando-espinosa-clip/my-own-react-ui-library",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/YOUR_REPOSITORY_NAME"
+    "registry": "https://npm.pkg.github.com/fernando-espinosa-clip"
   },
   "version": "0.1.0",
   "description": "A simple template for a custom React component library",
